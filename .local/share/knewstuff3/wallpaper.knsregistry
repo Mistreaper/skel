@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="289">
+  <name>Arch Liquid</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541305</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>77567</downloads>
+  <installedfile>/home/guest/.local/share/wallpapers/ArchLiquid/*</installedfile>
+  <id>1541305</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>A Liquid themed wallpaper for Arch Linux.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541305/81d1e361a784c8ea5cde873365ebe6a2ea80ef8ff08c3ab51e6734e2c1fb00255c10.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541305/81d1e361a784c8ea5cde873365ebe6a2ea80ef8ff08c3ab51e6734e2c1fb00255c10.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzQ0MjAiLCJvIjoiMSIsInMiOiJiYjY5MjE2MzA5MDhjMzYxZjI0NWIwMTI5Nzg3NDAwZGEzMGI4NGUxMGQ2ODA1MWMyMWVlNDkxZDkyMjFmODM3YmE2YTA5NWYzZTk1MGExNGJlNzE0M2U1YjYxMWFhZjlmZjg3NmUyNzIxN2UyM2Q0NGJiNzhiN2U0NjMwMzg4NSIsInQiOjE2NDY5NTYyMzAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2Ljg0In0.zOzO-CwJrjk0Qtez64qEjlnEL2RNg1GkFFE5S8XIe_A/ArchLiquid.tar.gz</payload>
+  <tags>arch,artwork,gplv2-later,kde,linux,wallpaper,original-product,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="299">
+  <name>Qogir wallpaper</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1308425</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>24057</downloads>
+  <installedfile>/home/archlinuxgui/.local/share/wallpapers/Qogir-dark/*</installedfile>
+  <id>1308425</id>
+  <releasedate>2020-07-16</releasedate>
+  <summary>Qogir wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/9/5/8/6/5231a5ef1a42cb0ef84b689b39937b7ae95c.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/9/5/8/6/5231a5ef1a42cb0ef84b689b39937b7ae95c.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTQ5MTA3OTQiLCJvIjoiMSIsInMiOiIzNmRiMzkzZTA2NGMzNDY1NmUxODg5OTE4OGU2NjkzMWIwZTM4MjNiZWVlYTA4OWI5NWU2MzBhZGJhN2FmNjA1YzNlYmU2M2FlYTJmM2U3ZWQzYjUwNGRlN2I4ZDRkZjJmNjAwOTA2ZWYzODg1MTE4NGQ3MDdiYjcwNTQ3NjZjMCIsInQiOjE2MTc1NDQwMDksInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.nBICaeQowYOB_A8qPnExFur4EIzpq-WRwjoCoL_N0OU/01-Qogir-dark.tar.xz</payload>
+  <tags>plasma,wallpaper,kde,gplv3,artwork</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Grass</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541302</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>80440</downloads>
+  <installedfile>/home/guest/.local/share/wallpapers/ArchGrass/*</installedfile>
+  <id>1541302</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>A Simple Grass Icon Arch Wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541302/840b95d864d487cadf7cc4948ea798610cabc03859af59c7b6acd79609a4fdbd962e.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541302/840b95d864d487cadf7cc4948ea798610cabc03859af59c7b6acd79609a4fdbd962e.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzM3MDUiLCJvIjoiMSIsInMiOiIzMjg2YjEzZTc2NDZhYThjZjMzNmIxYmE5YWU4OWFkZTYzZmFjMmNjYWNkNmIwNzllYTdhMWZjNTc4M2NhOGRiYTQwOWExYTM2ODVhM2QxNzU1NWQwNTM5Y2ZlNjI0MmM2OWMwOWNiMDU5NjIxNzg4ODZmMDA5YmYwY2U4OThhZiIsInQiOjE2NDY5NTYyMzgsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2Ljc0In0.8ylYHROJlABKaRW4PbOpaI8h3HRFohN1MgqPqbGbABE/ArchGrass.tar.gz</payload>
+  <tags>arch,artwork,original-product,gplv2-later,wallpaper</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Iridescent</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1640884</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>55</rating>
+  <downloads>23051</downloads>
+  <installedfile>/home/guest/.local/share/wallpapers/Iridescent/*</installedfile>
+  <id>1640884</id>
+  <releasedate>2021-11-12</releasedate>
+  <summary>Arch wallpaper&lt;br />
+Pic Credits : https://unsplash.com/photos/k1bO_VTiZSs</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1640884/ab8424b2b29aa626b047d80cb998969f5d3e3d3bbe51eab86288063488ec9583979c.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1640884/ab8424b2b29aa626b047d80cb998969f5d3e3d3bbe51eab86288063488ec9583979c.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY3MzgzODQiLCJvIjoiMSIsInMiOiIyYzllZTZkYzIxNzk0OWVjOTE1NDVhYTE1ZWRjMTBiNzk2YTZlMTQzYjc2NGJiYWJjNTZiMmIwNmVjYmY2MWRhYjk3M2UzZTkwZTRlZTIwOWUwYzVlYjk4NmMwMjgyZjQ2ZGQwNDcwYzM1YWIxN2U3ZmIzOWY3OTJhMWFmODhiZCIsInQiOjE2NDY5NTYyNjAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjY3In0.-tWchZbtKjZndOMK2tScxXMb7n0HKJf6KL2YoBCf5bA/Iridescent.tar.gz</payload>
+  <tags>gplv3,iridescent,kde,mac,efi,wallpaper,artwork,arch,sweet</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Minimal</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1541309</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>78493</downloads>
+  <installedfile>/home/guest/.local/share/wallpapers/Arch/*</installedfile>
+  <id>1541309</id>
+  <releasedate>2021-07-08</releasedate>
+  <summary>A minimal Arch Linux Wallpaper</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1541309/8675888c9d0c9cff2412c99ec1695877528eafc1182572d3e94345d3c014ae3ef166.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1541309/8675888c9d0c9cff2412c99ec1695877528eafc1182572d3e94345d3c014ae3ef166.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjU3NzQ3ODIiLCJvIjoiMSIsInMiOiI4YjNmYmIyZDYzYzZmMmE0MGE3MmMyYTAxY2I0YTAwMDFhOTcwODMxNjUwOGE0ZTNmMmE3ZDcwZDJlZTdmNTFiMTE0NzRjMzZkNGJjNTI2YmQ3MzUwOGQwOWM4NWMyMTM2ZWU5OTg0MzY4NTU4OWNhMGQ5MDAzODliYmM3MzY4NSIsInQiOjE2NDY5NTYyMjYsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjY2In0.m55FW7L7t69T894WQw9wWxraq_nXjlrEN4A5XXuIvIE/Arch-20210708195131.tar.gz</payload>
+  <tags>artwork,arch,original-product,theme,wallpaper,kde,linux,minimal,gplv2-later</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="289">
+  <name>Arch Blue Liquid</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1562665</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>59561</downloads>
+  <installedfile>/home/guest/.local/share/wallpapers/ArchBlueLiquid/*</installedfile>
+  <id>1562665</id>
+  <releasedate>2021-07-23</releasedate>
+  <summary>Blue Liquid logo wallpaper for Arch</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1562665/d0a61c69f9cfbf118b74130f739db8acd2ba9bbd4e299dee741315b1f31523143e10.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1562665/d0a61c69f9cfbf118b74130f739db8acd2ba9bbd4e299dee741315b1f31523143e10.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MjcwNTc0OTgiLCJvIjoiMSIsInMiOiIzMDNlNWRiYWQ3YzgzNTZkNzY4MWUzNTNkOTc5MzBkOGQzY2U5N2Y0MjhjMDc0NjM3ZTFkNDFjNTgyNzk3Mzg5MjEwMThkMjExNmJkZmY2NDg4MDNmNjQwMTY0MGRjNjc4ZGNlODNjOGU5YWI4Y2Q5NTM5NWQxNzQ1Y2QzMmE0ZiIsInQiOjE2NDY5NTYyMzQsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjkyIn0.t8WuImnPc1K6B1yPSa4x3zbY4QYeSUVu7iTlmvEzSR4/ArchBlueLiquid.tar.gz</payload>
+  <tags>original-product,gplv2-later,wallpaper,arch,artwork</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

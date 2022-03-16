@@ -1,0 +1,28 @@
+[$Version]
+update_info=ksmserver_update_loginMode_value.upd:ksmserver_update_loginMode_value_default_enum
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=101df1d119e1c9000164695216500000013650006
+clientId2=101df1d119e1c9000164695216500000013650007
+clientId3=101df1d119e1c9000164695216500000013650008
+clientId4=101df1d119e1c9000164695216700000013650010
+count=4
+program1=/usr/lib/DiscoverNotifier
+program2=/usr/bin/kalendarac
+program3=/usr/bin/korgac
+program4=pulseaudio
+restartCommand1=/usr/lib/DiscoverNotifier,-session,101df1d119e1c9000164695216500000013650006_1646952754_948007
+restartCommand2=/usr/bin/kalendarac,-session,101df1d119e1c9000164695216500000013650007_1646952754_948006
+restartCommand3=/usr/bin/korgac,-session,101df1d119e1c9000164695216500000013650008_1646952754_948011
+restartCommand4=
+restartStyleHint1=0
+restartStyleHint2=0
+restartStyleHint3=0
+restartStyleHint4=0
+userId1=guest
+userId2=guest
+userId3=guest
+userId4=guest

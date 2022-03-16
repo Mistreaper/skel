@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="112">
+  <name>Iridescent - Tealish</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1639231</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>58</rating>
+  <downloads>24578</downloads>
+  <installedfile>/home/guest/.local/share/color-schemes/IridescentLightly3.colors</installedfile>
+  <id>1639231</id>
+  <releasedate>2021-11-10</releasedate>
+  <summary>Main Color Scheme of Iridescent Global Theme. Plasma Colorful color Scheme with uniform color throughout which syncs with your icons.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1639231/24a8166d3b82246d6008137c37da29dde62353817467406e3dec0cf7870077df339e.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1639231/24a8166d3b82246d6008137c37da29dde62353817467406e3dec0cf7870077df339e.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY1NDYzNTkiLCJvIjoiMSIsInMiOiIyMGJmYjAwZWQzNzA1ZGUzOTQ3MDc4MWYzMjI3Njg2YjVhZjY3NzBlMGFjMDg5NTdlMTBjZjQyZmM5MThjOWY4MWM1YzRkY2I0OTljMjY3ZWVjMmMzNjZlMzQwMzZkNjdiZTNjN2FiMzU1M2UzYzc2YmRlNzkwOGIyMjcyYmNmYiIsInQiOjE2NDY5NTYyMTAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjExOSJ9.UgSj8bINOjzyILr1R_qXdjYHqQ9BT7VkFkeA_TptCQE/IridescentLightly3.colors.tar.gz</payload>
+  <tags>iridescent,gplv3,colorscheme,kde,linux,original-product,theme,sweet,teal,plasma,unix</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Iridescent - Darker Topbar</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1639228</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>25000</downloads>
+  <installedfile>/home/guest/.local/share/color-schemes/IridescentLightly2.colors</installedfile>
+  <id>1639228</id>
+  <releasedate>2021-11-10</releasedate>
+  <summary>Darker Topbar version of Iridescent (Improved Readability) . Plasma Colorful color Scheme with uniform color throughout which syncs with your icons.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1639228/5799ef5b68a2bfa56e7371d493c4d025299f34b61c5237906acb9787f44149bf8f73.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1639228/5799ef5b68a2bfa56e7371d493c4d025299f34b61c5237906acb9787f44149bf8f73.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY1NDYyMzMiLCJvIjoiMSIsInMiOiI0ZmIzYmUzMjU4NGU0Y2UxMTNjNDE4NjEwOWQ5NjdlM2I3OWNmZDMzOTg2OTExYTc2MWMyOWU4NDFmZTA0OTYzZjgyNzJjYWMyNTNjMzg5MTU1OTZhNDY2ODg0YjViZDhjMWJiYWM4NGEzMTRjOWZkMWEyM2M2MzkwN2NjOWRhMyIsInQiOjE2NDY5NTYyMTMsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyMiJ9.7TxADUxqyIt3W-Li56TdQTokN8K-HqEqDbyPWxjGwDk/IridescentLightly2.colors.tar.gz</payload>
+  <tags>unix,sweet,theme,plasma,original-product,colorscheme,gplv3,linux,kde,iridescent</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="112">
+  <name>Iridescent</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1639222</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>24828</downloads>
+  <installedfile>/home/guest/.local/share/color-schemes/IridescentLightly.colors</installedfile>
+  <id>1639222</id>
+  <releasedate>2021-11-10</releasedate>
+  <summary>Plasma Colorful color Scheme with uniform color throughout which syncs with your icons.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1639222/e2f344c6bcbfdea84f68020784c161d9915b05d89c13ab98bdcfd7575a1bd82130a1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1639222/e2f344c6bcbfdea84f68020784c161d9915b05d89c13ab98bdcfd7575a1bd82130a1.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY1NDYxNTYiLCJvIjoiMSIsInMiOiI2YzU4NDFlYThiM2M4YWI0ZDMyMDY0MGU2ZTE3YmRiY2JjZTI3ZDQzZWY4MTE1ZTlkY2IzZDY2YWU5YTk1ZjQ4YzkyMjIzNzFlNGUxNTA1ZDk4YWFlMmI3YTNhM2FkYzhlYmQ4Njk4OTgwY2UzMmRlOGE4YTVlNGExOTg0Y2Q5NyIsInQiOjE2NDY5NTYyMTcsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjgyIn0.ZXEvAlMtnGG6pZ7XaD9oHCVov0ai247E49G6Qjfm9f0/IridescentLightly.colors.tar.gz</payload>
+  <tags>unix,original-product,theme,sweet,plasma,gplv3,linux,iridescent,kde,colorscheme,candy</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

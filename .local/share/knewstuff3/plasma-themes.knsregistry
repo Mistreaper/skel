@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="104">
+  <name>Iridescent</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1640895</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>63</rating>
+  <downloads>26594</downloads>
+  <installedfile>/home/guest/.local/share/plasma/desktoptheme/Iridescent-round</installedfile>
+  <id>1640895</id>
+  <releasedate>2021-11-12</releasedate>
+  <summary>Multiple color schemes available .</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1640895/0480e45901e9d740311306f09c2dd214b7b9f9edbf3f4306e495f4789e85f54bec8a.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1640895/0480e45901e9d740311306f09c2dd214b7b9f9edbf3f4306e495f4789e85f54bec8a.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY3NDAwMjYiLCJvIjoiMSIsInMiOiIzYWIzZDQ2ZWE3OWQ1Nzg2NjRlNDYyYTYxMzY5ZTU3MjkzNDE2NWYwMjRkNDhlYTFiMmY1YzlhNGMyNDA1NDEzYTVjZWQ5ZjY2OTIzYjgzZThmMTBiNmZhNWQxNGU4M2I3YjRiMzA0NTI4MzE0NjUxMDQ4NTQzZWZmMmJjMDUyNCIsInQiOjE2NDY5NTYyMjAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNSJ9.597b1Ae9a_aqu2sc3sT0GjIRTY7hGw-_0iPVVhNDDwM/Iridescent-round.tar.gz</payload>
+  <tags>gplv3,linux,iridescent,kde,plasma,sweet,theme,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

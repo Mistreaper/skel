@@ -1,0 +1,76 @@
+I2022-03-11 05:42:45.135432 instance.cpp:1407] Override Enabled Addons: {}
+I2022-03-11 05:42:45.135458 instance.cpp:1408] Override Disabled Addons: {}
+I2022-03-11 05:42:45.204259 addonmanager.cpp:191] Loaded addon xcb
+I2022-03-11 05:42:45.207104 addonmanager.cpp:191] Loaded addon quickphrase
+I2022-03-11 05:42:45.208114 addonmanager.cpp:191] Loaded addon imselector
+I2022-03-11 05:42:45.215391 addonmanager.cpp:191] Loaded addon keyboard
+I2022-03-11 05:42:45.217822 addonmanager.cpp:191] Loaded addon dbus
+I2022-03-11 05:42:45.218952 addonmanager.cpp:191] Loaded addon fcitx4frontend
+I2022-03-11 05:42:45.220399 addonmanager.cpp:191] Loaded addon ibusfrontend
+I2022-03-11 05:42:45.237108 addonmanager.cpp:191] Loaded addon xim
+E2022-03-11 05:42:45.238925 waylandmodule.cpp:166] Failed to open wayland connection
+I2022-03-11 05:42:45.238937 addonmanager.cpp:191] Loaded addon wayland
+I2022-03-11 05:42:45.241072 addonmanager.cpp:191] Loaded addon dbusfrontend
+I2022-03-11 05:42:45.271342 addonmanager.cpp:191] Loaded addon clipboard
+I2022-03-11 05:42:45.272282 addonmanager.cpp:191] Loaded addon waylandim
+I2022-03-11 05:42:45.272966 addonmanager.cpp:191] Loaded addon unicode
+I2022-03-11 05:42:45.275783 addonmanager.cpp:191] Loaded addon pinyinhelper
+I2022-03-11 05:42:45.306315 inputmethodmanager.cpp:198] Found 713 input method(s) in addon keyboard
+I2022-03-11 05:42:45.306505 inputmethodmanager.cpp:117] No valid input method group in configuration. Building a default one
+I2022-03-11 05:42:45.321120 instance.cpp:734] Items in Default: [InputMethodGroupItem(keyboard-us,layout=)]
+I2022-03-11 05:42:45.321135 instance.cpp:739] Generated groups: [Default]
+I2022-03-11 05:42:45.349150 addonmanager.cpp:191] Loaded addon kimpanel
+I2022-03-11 05:42:45.486844 addonmanager.cpp:191] Loaded addon classicui
+I2022-03-11 05:42:45.488019 addonmanager.cpp:191] Loaded addon notificationitem
+I2022-03-11 05:42:45.489620 addonmanager.cpp:191] Loaded addon notifications
+I2022-03-11 05:42:45.490512 kimpanel.cpp:117] Kimpanel new owner
+lpadmin: Printer drivers are deprecated and will stop working in a future version of CUPS.
+lpadmin: Forbidden
+[1734:1734:0311/054409.945477:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1734:1734:0311/054409.945670:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1734:1734:0311/054409.945812:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[1734:1734:0311/054409.945931:ERROR:shared_image_manager.cc(227)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+/bin/bash: warning: setlocale: LC_ALL: cannot change locale (en_US.UTF-8)
+[2696:2696:0311/054657.066565:ERROR:CONSOLE(1)] "Uncaught ReferenceError: loadTimeData is not defined", source: edge://welcome-edge/strings.js (1)
+
+** (process:1433): WARNING **: 05:47:40.932: Found icon of unknown type 'unknown' in 'system/flatpak/flatpak/cc.nift.nsm/*', skipping it.
+
+** (process:1433): WARNING **: 05:47:40.932: Found icon of unknown type 'unknown' in 'system/flatpak/flatpak/cc.nift.nsm/*', skipping it.
+
+(gmd-applet-3.py:1494): Gdk-WARNING **: 05:52:34.952: GdkWindow 0x3000003 unexpectedly destroyed
+
+(gmd-applet-3.py:1494): Gdk-WARNING **: 05:52:34.954: The program 'gmd-applet-3.py' received an X Window System error.
+This probably reflects a bug in the program.
+The error was 'BadWindow (invalid Window parameter)'.
+  (Details: serial 336 error_code 3 request_code 18 (core protocol) minor_code 0)
+  (Note to programmers: normally, X errors are reported asynchronously;
+   that is, you will receive the error a while after causing it.
+   To debug your program, run it with the GDK_SYNCHRONIZE environment
+   variable to change this behavior. You can then get a meaningful
+   backtrace from your debugger if you break on the gdk_x_error() function.)
+startkde: Starting up...
+startkde: Shutting down...
+startkde: Done.
+W2022-03-11 05:52:35.133634 xcbeventreader.cpp:39] XCB connection ":0" got error: 1
+I2022-03-11 05:52:35.133757 inputcontextmanager.cpp:318] All display connections are gone, exit now.
+I2022-03-11 05:52:35.133821 xcbmodule.cpp:58] Disconnected from X11 Display :0
+I2022-03-11 05:52:35.134271 addonmanager.cpp:297] Unloading addon notifications
+I2022-03-11 05:52:35.134301 addonmanager.cpp:297] Unloading addon notificationitem
+I2022-03-11 05:52:35.134356 addonmanager.cpp:297] Unloading addon classicui
+X connection to :0 broken (explicit kill or server shutdown).
+I2022-03-11 05:52:35.135329 addonmanager.cpp:297] Unloading addon kimpanel
+I2022-03-11 05:52:35.135463 addonmanager.cpp:297] Unloading addon pinyinhelper
+I2022-03-11 05:52:35.135483 addonmanager.cpp:297] Unloading addon unicode
+I2022-03-11 05:52:35.135501 addonmanager.cpp:297] Unloading addon waylandim
+I2022-03-11 05:52:35.135514 addonmanager.cpp:297] Unloading addon clipboard
+I2022-03-11 05:52:35.137383 addonmanager.cpp:297] Unloading addon dbusfrontend
+I2022-03-11 05:52:35.137438 addonmanager.cpp:297] Unloading addon wayland
+I2022-03-11 05:52:35.137455 addonmanager.cpp:297] Unloading addon xim
+I2022-03-11 05:52:35.137472 addonmanager.cpp:297] Unloading addon ibusfrontend
+I2022-03-11 05:52:35.137715 addonmanager.cpp:297] Unloading addon fcitx4frontend
+I2022-03-11 05:52:35.137743 addonmanager.cpp:297] Unloading addon dbus
+I2022-03-11 05:52:35.137809 addonmanager.cpp:297] Unloading addon keyboard
+I2022-03-11 05:52:35.137943 addonmanager.cpp:297] Unloading addon imselector
+I2022-03-11 05:52:35.137962 addonmanager.cpp:297] Unloading addon quickphrase
+I2022-03-11 05:52:35.138166 addonmanager.cpp:297] Unloading addon xcb

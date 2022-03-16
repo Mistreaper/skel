@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="114">
+  <name>WindowsK10</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>brankow</author>
+  <homepage>https://store.kde.org/p/1172409</homepage>
+  <licence></licence>
+  <version>0.6</version>
+  <rating>73</rating>
+  <downloads>78142</downloads>
+  <installedfile>/home/guest/.local/share/aurorae/themes/K01/*</installedfile>
+  <installedfile>/home/guest/.local/share/aurorae/themes/K01-d/*</installedfile>
+  <id>1172409</id>
+  <releasedate>2019-06-03</releasedate>
+  <summary>I have created something that was missing from Windows 10 theme set.&lt;br />
+&lt;br />
+Aurorae theme was missing so i used aurorae part of "k8" QtCurve style  that was created by  garthecho&lt;br />
+&lt;br />
+https://store.kde.org/p/1005519/&lt;br />
+&lt;br />
+It could be better and it will be better.</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/46/17/01/1172409/58cfddd6c78c7b8e553cad6f8e8956873491.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/46/17/01/1172409/58cfddd6c78c7b8e553cad6f8e8956873491.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTk1NzIyOTYiLCJvIjoiMSIsInMiOiIwZjE2NzQ3NDJhMTRiYjkxNjQ0MDAxZTdmM2Q3ZTBhMTczMmM4OWI2ZThkYWYxOGJhNmQ1NmNjOWQyMzBmMGVkMjQyODdlNjVmNTE3YmJmMDNlZGM1MmY3ZTU2YWI5ZjE2ZTg3MjI3NmY3MTM5MTdiM2FlNmEwMjYzZTY2ZDVmZSIsInQiOjE2NDY5NTU5MzIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNiJ9.k8JY5Drho4wcXlmKNLToZRfEm3J71D_JjguXAohx82o/WindowsK10(0.6.2).tar.gz</payload>
+  <tags>unix,linux,kde,plasma,theme</tags>
+  <status>installed</status>
+ </stuff>
+ <stuff category="114">
+  <name>Qogir Aurorae Theme</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>vinceliuice</author>
+  <homepage>https://store.kde.org/p/1298366</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>73</rating>
+  <downloads>54989</downloads>
+  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir/*</installedfile>
+  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-circle/*</installedfile>
+  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-dark/*</installedfile>
+  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-light-circle/*</installedfile>
+  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-light/*</installedfile>
+  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-dark-circle/*</installedfile>
+  <id>1298366</id>
+  <releasedate>2020-03-11</releasedate>
+  <summary>&lt;strong> Qogir KDE Aurorae Theme &lt;/strong>&lt;br />
+&lt;br />
+Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+&lt;br />
+&lt;strong> Recommendations &lt;/strong>&lt;br />
+&lt;br />
+ For better looking please use this pack with:&lt;br />
+&lt;br />
+&lt;strong>１.&lt;/strong>--Qogir Kvantum theme: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a> .</summary>
+  <changelog></changelog>
+  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</preview>
+  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</previewBig>
+  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODM5MDYyMzIiLCJvIjoiMSIsInMiOiJlMDIyNWE5OWJhNzc4YjM1ZDM5NjQyMjdkYjk2MDE5OTJmMzUyZTViNTM0MDIzNjdlZDA2Njk2MWRlNGFiYTMyMjc1YjFhZDMwOTQ2NjFiMzQ2MDZjZWMxNjY2MWY3MWJiNTkxNmFlNDU1OGViMTViZTQ1NTlhMjE5OTM4NmViOSIsInQiOjE2MTc1NDM5ODksInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.oLGPbaroh8BGNbz40aIa8t960g45Kyd4SgkrlBTNBCo/Qogir.tar.xz</payload>
+  <tags>unix,theme,plasma,original-product,kde,linux,gplv3</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

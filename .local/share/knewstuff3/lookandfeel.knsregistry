@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="121">
+  <name>Iridiscent Kvantum</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>rkstrdee</author>
+  <homepage>https://store.kde.org/p/1689822</homepage>
+  <licence></licence>
+  <version></version>
+  <rating>50</rating>
+  <downloads>8884</downloads>
+  <installedfile>/home/guest/.local/share/plasma/look-and-feel/Iridescent-kvantum</installedfile>
+  <id>1689822</id>
+  <releasedate>2022-01-24</releasedate>
+  <summary>Iridiscent theme for Kvantum Manager.&lt;br />
+Kvantum theme available at https://www.pling.com/p/1689821</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1689822/screenshot-20220125-014308.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1689822/screenshot-20220125-014308.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDMwNTU5MzkiLCJvIjoiMSIsInMiOiJlN2NmNzRlZTM4MWEzM2U0MDhkNzBlZTEwYWE5MTViMjNhY2E4MjJiNzEyNjI2ZjFiMTdkNTJmOWNjODkwMGFhOGJkMWUxNzVjYzE5NmI1Y2ExZDYzNDY2MTc2Njk3NTM2M2Q2NmU4NDZkZTgwY2JhMjBmMmRlNjkyYThmMGI3NyIsInQiOjE2NDY5NTYxOTIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjcwIn0.FTcn9Do2hULv70eGC_Tl52VqvoCEQuUt2s30YisA8MI/Iridescent-kvantum.tar.gz</payload>
+  <tags>linux,look-and-feel,kde,gplv2-later,theme,plasma,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

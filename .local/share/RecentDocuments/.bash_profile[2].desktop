@@ -1,0 +1,6 @@
+[Desktop Entry]
+Icon=text-plain
+Name=.bash_profile
+Type=Link
+URL[$e]=file:$HOME/.bash_profile
+X-KDE-LastOpenedWith=org.kde.kate

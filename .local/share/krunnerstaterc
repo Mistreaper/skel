@@ -1,0 +1,2 @@
+[PlasmaRunnerManager]
+LaunchCounts=1 exec:///usr/bin/google-chrome-stable,1 krunner_systemsettings,1 exec:///usr/bin/konsole,1 exec:///usr/bin/htop,1 exec://

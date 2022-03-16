@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE khotnewstuff3>
+<hotnewstuffregistry>
+ <stuff category="132">
+  <name>BeautyLine</name>
+  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
+  <author>sajjad606</author>
+  <homepage>https://store.kde.org/p/1425426</homepage>
+  <licence></licence>
+  <version>Full</version>
+  <rating>93</rating>
+  <downloads>96491</downloads>
+  <installedfile>/home/guest/.local/share/icons/BeautyLine/*</installedfile>
+  <id>1425426</id>
+  <releasedate>2021-12-20</releasedate>
+  <summary>outlined icons Designed to have unified look and comprehensive coverage.&lt;br />
+I updated about all icons to give you a original set.&lt;br />
+&lt;br />
+Beauty icon set include most of mimetypes, actions, apps, places, categories and device icons, and more will be added.&lt;br />
+Most of Famous DE's are...</summary>
+  <changelog></changelog>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/21/57/75/1425426/52f86681b973e175029934912010abe1b01cbfc550b4df4165d9514c05cb07b2af7f.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/21/57/75/1425426/52f86681b973e175029934912010abe1b01cbfc550b4df4165d9514c05cb07b2af7f.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTUzODEzOTEiLCJvIjoiMSIsInMiOiI0NTFhYjliNDI5ZGY4Y2I0YWNmNDgyYzBkNmJiNTk0MGIxZTQ5NDRkZGI5YWRhYzA0ZDZhYjVhNDYxYzM2YjRiOWMwOWExMWZkNWY4MmMwOTVmOWU1MWFiODdjMTUzN2RhOWM0MjkwZmJmZTE4M2VhNzI5NGI1ZDAwZDQ2YTFkZSIsInQiOjE2NDY5NTYxMTMsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjY3In0.KqXWNmAY1m9b-QrM8j1gnDCnprRM8pHDRvcMfksCmGg/BeautyLine-20210310130119.tar.gz</payload>
+  <tags>original-product,outline,gplv3,icon-theme,modern,linux,colorful,candy,beauty,kde,gnome,xfce,lxde,cinnamon,mate,lxqt,deepin,elementary,budgie,unix</tags>
+  <status>installed</status>
+ </stuff>
+</hotnewstuffregistry>

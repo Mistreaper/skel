@@ -1,0 +1,27 @@
+[
+    {
+        "enabled": true,
+        "id": "817837f689e02a411222dcc954a7cdab",
+        "metadata": {
+            "fullname": "xrandr-Samsung Electric Company-S24F350-H4ZN700759",
+            "name": "HDMI-0"
+        },
+        "mode": {
+            "refresh": 60,
+            "size": {
+                "height": 1080,
+                "width": 1920
+            }
+        },
+        "overscan": 0,
+        "pos": {
+            "x": 0,
+            "y": 0
+        },
+        "primary": true,
+        "rgbrange": 0,
+        "rotation": 1,
+        "scale": 1,
+        "vrrpolicy": 2
+    }
+]
