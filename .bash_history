@@ -1,9 +1,0 @@
-clear
-l
-zsh
-zsh
-exit
-clear
-zsh
-bash
-exit
