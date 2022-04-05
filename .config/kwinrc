@@ -5,19 +5,9 @@ update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-
 OpenGLIsUnsafe=false
 
 [Desktops]
-Id_1=3c846e1f-5a40-4576-af1e-9036f9d3a6ef
+Id_1=cc2702e5-0af5-4878-be0b-088826af9f4c
 Number=1
 Rows=1
 
-[Effect-PresentWindows]
-BorderActivateAll=9
-
-[ElectricBorders]
-BottomRight=ShowDesktop
-
-[TabBox]
-BorderActivate=9
-
 [org.kde.kdecoration2]
-ButtonsOnLeft=M
-ButtonsOnRight=IAX
+theme=__aurorae__svg__K01-d

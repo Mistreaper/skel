@@ -2,24 +2,26 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="121">
-  <name>Iridiscent Kvantum</name>
+  <name>Noir-Dark-Global</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>rkstrdee</author>
-  <homepage>https://store.kde.org/p/1689822</homepage>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1575034</homepage>
   <licence></licence>
-  <version></version>
-  <rating>50</rating>
-  <downloads>8884</downloads>
-  <installedfile>/home/guest/.local/share/plasma/look-and-feel/Iridescent-kvantum</installedfile>
-  <id>1689822</id>
-  <releasedate>2022-01-24</releasedate>
-  <summary>Iridiscent theme for Kvantum Manager.&lt;br />
-Kvantum theme available at https://www.pling.com/p/1689821</summary>
+  <version>1.0</version>
+  <rating>61</rating>
+  <downloads>55</downloads>
+  <installedfile>/home/guest/.local/share/plasma/look-and-feel/Noir-Dark-Global</installedfile>
+  <id>1575034</id>
+  <releasedate>2022-04-04</releasedate>
+  <summary> &lt;strong>Dark Plasma Theme, Transparent and Blur. Enabled Blurred Widgets for Plasma 5.23&lt;br />
+___________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-White-Blue&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361468/" target="_blank"...</summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1689822/screenshot-20220125-014308.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1689822/screenshot-20220125-014308.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDMwNTU5MzkiLCJvIjoiMSIsInMiOiJlN2NmNzRlZTM4MWEzM2U0MDhkNzBlZTEwYWE5MTViMjNhY2E4MjJiNzEyNjI2ZjFiMTdkNTJmOWNjODkwMGFhOGJkMWUxNzVjYzE5NmI1Y2ExZDYzNDY2MTc2Njk3NTM2M2Q2NmU4NDZkZTgwY2JhMjBmMmRlNjkyYThmMGI3NyIsInQiOjE2NDY5NTYxOTIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjcwIn0.FTcn9Do2hULv70eGC_Tl52VqvoCEQuUt2s30YisA8MI/Iridescent-kvantum.tar.gz</payload>
-  <tags>linux,look-and-feel,kde,gplv2-later,theme,plasma,unix</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1575034/0d335bb589e52d046fe5079b8e21f335c40ddc8335cbf22969085b4c8933c1db4b01.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1575034/0d335bb589e52d046fe5079b8e21f335c40ddc8335cbf22969085b4c8933c1db4b01.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkwNjI5NjMiLCJvIjoiMSIsInMiOiI1NDUwZjcwMmM0ZmU2MDlkNmU1OGExZjQyN2E1ZjkxZDg1ODkyNzJjZjY4YzY3NjdjNTlhYzYyYjZiM2E3NWIxNGY2NWRmMTliYzA2N2VlYTBiMTQxMmJhMmMxOTMwNWZiYmE4YzA2NGQ4YTRkMzAwZTVjNmUzNDY1ODcyMDAwZiIsInQiOjE2NDkxMjY5MjYsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjgyIn0.SZY6Lq2Y0VcTv04yuI79ztPnjsJ94cRus6PC6bYnDZc/Noir-Dark-Global.tar.gz</payload>
+  <tags>kde,gplv3,linux,look-and-feel,unix,theme,plasma</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

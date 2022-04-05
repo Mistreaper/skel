@@ -2,63 +2,55 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="112">
-  <name>Iridescent - Tealish</name>
+  <name>Breeze-Noir-Light</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>rkstrdee</author>
-  <homepage>https://store.kde.org/p/1639231</homepage>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1411469</homepage>
   <licence></licence>
-  <version></version>
-  <rating>58</rating>
-  <downloads>24578</downloads>
-  <installedfile>/home/guest/.local/share/color-schemes/IridescentLightly3.colors</installedfile>
-  <id>1639231</id>
-  <releasedate>2021-11-10</releasedate>
-  <summary>Main Color Scheme of Iridescent Global Theme. Plasma Colorful color Scheme with uniform color throughout which syncs with your icons.</summary>
+  <version>1.0</version>
+  <rating>69</rating>
+  <downloads>44752</downloads>
+  <installedfile>/home/guest/.local/share/color-schemes/BreezeNoirLight.colors</installedfile>
+  <id>1411469</id>
+  <releasedate>2020-08-11</releasedate>
+  <summary>Light Colorsheme  For Light Plasma Themes &lt;br />
+&lt;br />
+Plasma Color Scheme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361466/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1639231/24a8166d3b82246d6008137c37da29dde62353817467406e3dec0cf7870077df339e.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1639231/24a8166d3b82246d6008137c37da29dde62353817467406e3dec0cf7870077df339e.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY1NDYzNTkiLCJvIjoiMSIsInMiOiIyMGJmYjAwZWQzNzA1ZGUzOTQ3MDc4MWYzMjI3Njg2YjVhZjY3NzBlMGFjMDg5NTdlMTBjZjQyZmM5MThjOWY4MWM1YzRkY2I0OTljMjY3ZWVjMmMzNjZlMzQwMzZkNjdiZTNjN2FiMzU1M2UzYzc2YmRlNzkwOGIyMjcyYmNmYiIsInQiOjE2NDY5NTYyMTAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjExOSJ9.UgSj8bINOjzyILr1R_qXdjYHqQ9BT7VkFkeA_TptCQE/IridescentLightly3.colors.tar.gz</payload>
-  <tags>iridescent,gplv3,colorscheme,kde,linux,original-product,theme,sweet,teal,plasma,unix</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1411469/6ff9adad4b955ec476aa1b40d1ccc88e58a5ea419336468e3036ecefee8af2fd01a1.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1411469/6ff9adad4b955ec476aa1b40d1ccc88e58a5ea419336468e3036ecefee8af2fd01a1.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1OTcxNDcxOTUiLCJvIjoiMSIsInMiOiI5ZTI0YTRmNDVmMzRjY2E4N2VmN2FlNGU0ODkyODJjODY4YmE2MDUwNzYxMmM2NjI2M2M1ZmIzOTU4NjEwNTljMWZjZTI4MzU2ZTZlZmM1NGRjZTA0NzRhY2FhZjYzYjU1NTA2YTYyZGEyY2VmNTY1OGM4OGNlNjUwZTA3ZGY3ZiIsInQiOjE2NDkxMjY3NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2Ljg1In0.ZAMFU3bCrCpqzig9v98V_eGqntTBtdC09vCVQO5B0L4/BreezeNoirLight.colors</payload>
+  <tags>gplv3,colorscheme,kde,linux,original-product,plasma,theme,unix</tags>
   <status>installed</status>
  </stuff>
  <stuff category="112">
-  <name>Iridescent - Darker Topbar</name>
+  <name>Breeze-Noir-Dark</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>rkstrdee</author>
-  <homepage>https://store.kde.org/p/1639228</homepage>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1361466</homepage>
   <licence></licence>
-  <version></version>
-  <rating>50</rating>
-  <downloads>25000</downloads>
-  <installedfile>/home/guest/.local/share/color-schemes/IridescentLightly2.colors</installedfile>
-  <id>1639228</id>
-  <releasedate>2021-11-10</releasedate>
-  <summary>Darker Topbar version of Iridescent (Improved Readability) . Plasma Colorful color Scheme with uniform color throughout which syncs with your icons.</summary>
+  <version>1.0</version>
+  <rating>63</rating>
+  <downloads>33255</downloads>
+  <installedfile>/home/guest/.local/share/color-schemes/BreezeNoirDark.colors</installedfile>
+  <id>1361466</id>
+  <releasedate>2020-11-27</releasedate>
+  <summary>&lt;strong>Dark Plasma Color Scheme, customized for the &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark&lt;/strong> &lt;/span>  Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1361472/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Link to Wallpaper &lt;span style="color: #2e75bc;"> &lt;strong>Desert Blue&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361442/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+------------------&lt;br />
+&lt;br />
+Link to Wallpaper &lt;span style="color: #2e75bc;"> &lt;strong>Plasma Noir Scenery 13 HD&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1355286/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Collection of &lt;span style="color: #2e75bc;"> &lt;strong>Plasma Noir Scenery Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/c/1353921" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1639228/5799ef5b68a2bfa56e7371d493c4d025299f34b61c5237906acb9787f44149bf8f73.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1639228/5799ef5b68a2bfa56e7371d493c4d025299f34b61c5237906acb9787f44149bf8f73.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY1NDYyMzMiLCJvIjoiMSIsInMiOiI0ZmIzYmUzMjU4NGU0Y2UxMTNjNDE4NjEwOWQ5NjdlM2I3OWNmZDMzOTg2OTExYTc2MWMyOWU4NDFmZTA0OTYzZjgyNzJjYWMyNTNjMzg5MTU1OTZhNDY2ODg0YjViZDhjMWJiYWM4NGEzMTRjOWZkMWEyM2M2MzkwN2NjOWRhMyIsInQiOjE2NDY5NTYyMTMsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyMiJ9.7TxADUxqyIt3W-Li56TdQTokN8K-HqEqDbyPWxjGwDk/IridescentLightly2.colors.tar.gz</payload>
-  <tags>unix,sweet,theme,plasma,original-product,colorscheme,gplv3,linux,kde,iridescent</tags>
-  <status>installed</status>
- </stuff>
- <stuff category="112">
-  <name>Iridescent</name>
-  <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>rkstrdee</author>
-  <homepage>https://store.kde.org/p/1639222</homepage>
-  <licence></licence>
-  <version></version>
-  <rating>50</rating>
-  <downloads>24828</downloads>
-  <installedfile>/home/guest/.local/share/color-schemes/IridescentLightly.colors</installedfile>
-  <id>1639222</id>
-  <releasedate>2021-11-10</releasedate>
-  <summary>Plasma Colorful color Scheme with uniform color throughout which syncs with your icons.</summary>
-  <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1639222/e2f344c6bcbfdea84f68020784c161d9915b05d89c13ab98bdcfd7575a1bd82130a1.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1639222/e2f344c6bcbfdea84f68020784c161d9915b05d89c13ab98bdcfd7575a1bd82130a1.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY1NDYxNTYiLCJvIjoiMSIsInMiOiI2YzU4NDFlYThiM2M4YWI0ZDMyMDY0MGU2ZTE3YmRiY2JjZTI3ZDQzZWY4MTE1ZTlkY2IzZDY2YWU5YTk1ZjQ4YzkyMjIzNzFlNGUxNTA1ZDk4YWFlMmI3YTNhM2FkYzhlYmQ4Njk4OTgwY2UzMmRlOGE4YTVlNGExOTg0Y2Q5NyIsInQiOjE2NDY5NTYyMTcsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjgyIn0.ZXEvAlMtnGG6pZ7XaD9oHCVov0ai247E49G6Qjfm9f0/IridescentLightly.colors.tar.gz</payload>
-  <tags>unix,original-product,theme,sweet,plasma,gplv3,linux,iridescent,kde,colorscheme,candy</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1361466/9012d519e87e46fc459f919d53588e778d301.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1361466/9012d519e87e46fc459f919d53588e778d301.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDY0NzU4MjQiLCJvIjoiMSIsInMiOiI2MDRkZGE1YTljMDY4N2NiNjQ0MWQ5MzI5ZTYwMzFlNDgzZGNlYzFkNmIyNmNmZjkxZmZhMTBmZjAwNzc5MTI4NTIzZjA0ZmZlOWU3YWJiOWE0NDgzNzEwMTZiNzE0YzY5ZmU0ZDdiNTFlZWNkZmZlNDc2NmQ5NWNhMjEzMDc4OCIsInQiOjE2NDkxMjY3NjksInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjY2In0.O0UbuQ5MkE97oxkts10XfL06FdNNu3hJMmyZKZVthl0/BreezeNoirDark.colors</payload>
+  <tags>plasma,original-product,theme,unix,gplv3,colorscheme,linux,kde</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

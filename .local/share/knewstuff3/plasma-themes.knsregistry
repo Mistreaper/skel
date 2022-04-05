@@ -2,23 +2,76 @@
 <!DOCTYPE khotnewstuff3>
 <hotnewstuffregistry>
  <stuff category="104">
-  <name>Iridescent</name>
+  <name>Breeze-Noir-Dark Plasma Theme</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>rkstrdee</author>
-  <homepage>https://store.kde.org/p/1640895</homepage>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1361472</homepage>
   <licence></licence>
-  <version></version>
-  <rating>63</rating>
-  <downloads>26594</downloads>
-  <installedfile>/home/guest/.local/share/plasma/desktoptheme/Iridescent-round</installedfile>
-  <id>1640895</id>
-  <releasedate>2021-11-12</releasedate>
-  <summary>Multiple color schemes available .</summary>
+  <version>1.0</version>
+  <rating>79</rating>
+  <downloads>158</downloads>
+  <installedfile>/home/guest/.local/share/plasma/desktoptheme/Breeze-Noir-Dark</installedfile>
+  <id>1361472</id>
+  <releasedate>2022-04-04</releasedate>
+  <summary>&lt;strong>Dark Plasma Theme, Transparent and Blur. Enabled Blurred Widgets for Plasma 5.23&lt;br />
+&lt;br />
+Based on "Breeze" Plasma Theme &lt;br />
+___________________&lt;br />
+&lt;br />
+Icons for Dark Plasma Themes &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-White-Blue&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361468/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Icons for Light Plasma Themes &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Black-Blue&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361471/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Based on Default &lt;span style="color: #2e75bc;"> &lt;strong>Breeze&lt;/strong> &lt;/span> Icons&lt;br />
+___________________ &lt;br />
+&lt;br />
+&lt;span style="color: #483d8b;"> &lt;strong>Icons:&lt;/strong> &lt;/span> &lt;span style="color: #003c96;"> &lt;strong>Breeze Chameleon Dark&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1281798" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+&lt;span style="color: #483d8b;"> &lt;strong>Icons:&lt;/strong> &lt;/span> &lt;span style="color: #003c96;"> &lt;strong>Breeze Chameleon Light&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1298508" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a> &lt;br />
+&lt;br />
+- The folders change color depending on the &lt;span style="color: #d88d00;"> &lt;strong>Color&lt;/strong> &lt;/span> &lt;span style="color: #006A80;"> &lt;strong>Scheme&lt;/strong> &lt;/span> &lt;span style="color: #8f267c;"> &lt;strong>You&lt;/strong> &lt;/span> &lt;span style="color: green;"> &lt;strong>Set&lt;/strong> &lt;/span>&lt;br />
+__________________&lt;br />
+&lt;br />
+Kvantum Theme &lt;span style="color: #2e75bc;"> &lt;strong> Breeze-Noir-Dark-Kvantum &lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361475/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Global Theme (Look-and-Feel)  &lt;span style="color: #2e75bc;"> &lt;strong>Noir-Dark-Global&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1575034/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Plasma Color Scheme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361466/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Plasma Color Scheme: &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Light&lt;/strong> &lt;/span>:  &lt;a href="https://www.pling.com/p/1411469/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361464/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark-Color-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361465/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Aurorae Theme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark-Kvantum-Aurorae&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361740/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361460/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+SDDM LoginTheme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark-Blur&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361461/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Plasma Splashscreen &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark-Splash&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361462/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Konsole Color Scheme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361459/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Light Konsole Color Scheme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Light&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1411467/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+GTK-2/3 Theme &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark-GTK&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361476/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+_____________________&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #2e75bc;"> &lt;strong>Desert Blue&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361442/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+-------------------&lt;br />
+&lt;br />
+Wallpaper &lt;span style="color: #2e75bc;"> &lt;strong>Plasma Noir Scenery 13 HD&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1355286/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Collection of &lt;span style="color: #2e75bc;"> &lt;strong>Plasma Noir Scenery Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/c/1353921" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
   <changelog></changelog>
-  <preview>https://images.pling.com/cache/100x100-0/img/00/00/61/50/12/1640895/0480e45901e9d740311306f09c2dd214b7b9f9edbf3f4306e495f4789e85f54bec8a.png</preview>
-  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/61/50/12/1640895/0480e45901e9d740311306f09c2dd214b7b9f9edbf3f4306e495f4789e85f54bec8a.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MzY3NDAwMjYiLCJvIjoiMSIsInMiOiIzYWIzZDQ2ZWE3OWQ1Nzg2NjRlNDYyYTYxMzY5ZTU3MjkzNDE2NWYwMjRkNDhlYTFiMmY1YzlhNGMyNDA1NDEzYTVjZWQ5ZjY2OTIzYjgzZThmMTBiNmZhNWQxNGU4M2I3YjRiMzA0NTI4MzE0NjUxMDQ4NTQzZWZmMmJjMDUyNCIsInQiOjE2NDY5NTYyMjAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNSJ9.597b1Ae9a_aqu2sc3sT0GjIRTY7hGw-_0iPVVhNDDwM/Iridescent-round.tar.gz</payload>
-  <tags>gplv3,linux,iridescent,kde,plasma,sweet,theme,unix</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1361472/0d335bb589e52d046fe5079b8e21f335c40de0dc8e029ac6a2b5f949fddc5ce416ba.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1361472/0d335bb589e52d046fe5079b8e21f335c40de0dc8e029ac6a2b5f949fddc5ce416ba.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2NDkwNjMzMzAiLCJvIjoiMSIsInMiOiIzNWFmYzllYjU2YTI2Mjg3NzYxMmY0MGU1ODNiNDg0MTI5ZmJmNThlYTZhZWFmNWRhNTQyNDQyZGE1YWJhYmRkYjdkNDNiNDU2Y2NmNzg3NDBhY2JhZWQxYzcyNDY0YWE4YzU0NGE5NzZhMmIwNDlhOWFjMjZiNWUzYzhkYTZlNyIsInQiOjE2NDkxMjY3NzcsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjgxIn0.dGoykByTvwsBe3LwdrwgxrJGgt9BBvgFYANhjAENfL0/Breeze-Noir-Dark Plasma Theme.tar.gz</payload>
+  <tags>gplv3,efi,linux,kde,unix,theme,plasma</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

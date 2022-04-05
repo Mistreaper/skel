@@ -9,9 +9,9 @@
   <licence></licence>
   <version>0.6</version>
   <rating>73</rating>
-  <downloads>78142</downloads>
-  <installedfile>/home/guest/.local/share/aurorae/themes/K01/*</installedfile>
+  <downloads>78452</downloads>
   <installedfile>/home/guest/.local/share/aurorae/themes/K01-d/*</installedfile>
+  <installedfile>/home/guest/.local/share/aurorae/themes/K01/*</installedfile>
   <id>1172409</id>
   <releasedate>2019-06-03</releasedate>
   <summary>I have created something that was missing from Windows 10 theme set.&lt;br />
@@ -24,41 +24,38 @@ It could be better and it will be better.</summary>
   <changelog></changelog>
   <preview>https://images.pling.com/cache/100x100-0/img/00/00/46/17/01/1172409/58cfddd6c78c7b8e553cad6f8e8956873491.png</preview>
   <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/46/17/01/1172409/58cfddd6c78c7b8e553cad6f8e8956873491.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTk1NzIyOTYiLCJvIjoiMSIsInMiOiIwZjE2NzQ3NDJhMTRiYjkxNjQ0MDAxZTdmM2Q3ZTBhMTczMmM4OWI2ZThkYWYxOGJhNmQ1NmNjOWQyMzBmMGVkMjQyODdlNjVmNTE3YmJmMDNlZGM1MmY3ZTU2YWI5ZjE2ZTg3MjI3NmY3MTM5MTdiM2FlNmEwMjYzZTY2ZDVmZSIsInQiOjE2NDY5NTU5MzIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyNiJ9.k8JY5Drho4wcXlmKNLToZRfEm3J71D_JjguXAohx82o/WindowsK10(0.6.2).tar.gz</payload>
-  <tags>unix,linux,kde,plasma,theme</tags>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1NTk1NzIyOTYiLCJvIjoiMSIsInMiOiI1MWJiN2I0NTRmNGUxZGIzNDFiOTVkZmIwOTkyZDRjZDUxYzJlZWZlNjRjMzM2YjIxNDFlMTA1YTlhODA4ZDA3MmI0NzJmYTk5YWUwNThjYmY3ZGM1YjExMWI3OWJhNzRlNmY4YzM0YTMwYTEyMWM4ZjJiMmEwNDZmMWZlOTA1NiIsInQiOjE2NDkxMjcwMTcsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2Ljk3In0.iytVdWam9heVcr_z4v0b-ArL1-N0YxPHLE-rB3uMHeg/WindowsK10(0.6.2).tar.gz</payload>
+  <tags>plasma,linux,kde,theme,unix</tags>
   <status>installed</status>
  </stuff>
  <stuff category="114">
-  <name>Qogir Aurorae Theme</name>
+  <name>Breeze-Noir-Dark-Aurorae</name>
   <providerid>https://api.kde-look.org/ocs/v1/</providerid>
-  <author>vinceliuice</author>
-  <homepage>https://store.kde.org/p/1298366</homepage>
+  <author>l4k1</author>
+  <homepage>https://store.kde.org/p/1361464</homepage>
   <licence></licence>
-  <version></version>
-  <rating>73</rating>
-  <downloads>54989</downloads>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-circle/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-dark/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-light-circle/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-light/*</installedfile>
-  <installedfile>/home/archlinuxgui/.local/share/aurorae/themes/Qogir-dark-circle/*</installedfile>
-  <id>1298366</id>
-  <releasedate>2020-03-11</releasedate>
-  <summary>&lt;strong> Qogir KDE Aurorae Theme &lt;/strong>&lt;br />
+  <version>1.0</version>
+  <rating>58</rating>
+  <downloads>24110</downloads>
+  <installedfile>/home/guest/.local/share/aurorae/themes/Breeze-Noir-Dark-Aurorae/*</installedfile>
+  <id>1361464</id>
+  <releasedate>2021-02-11</releasedate>
+  <summary>&lt;strong>Dark Aurorae Theme, customized for the &lt;span style="color: #2e75bc;"> &lt;strong>Breeze-Noir-Dark&lt;/strong> &lt;/span>  Plasma Theme, which you can download: &lt;a href="https://www.pling.com/p/1361472/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
 &lt;br />
-Qogir kde is a flat Design theme for KDE Plasma desktop.&lt;br />
+Link to Wallpaper &lt;span style="color: #2e75bc;"> &lt;strong>Desert Blue&lt;/strong> &lt;/span>: &lt;a href="https://www.pling.com/p/1361442/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
+------------------&lt;br />
 &lt;br />
-&lt;strong> Recommendations &lt;/strong>&lt;br />
+Link to Wallpaper &lt;span style="color: #2e75bc;"> &lt;strong>Plasma Noir Scenery 13 HD&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/p/1355286/" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
 &lt;br />
- For better looking please use this pack with:&lt;br />
+Collection of &lt;span style="color: #2e75bc;"> &lt;strong>Plasma Noir Scenery Wallpapers&lt;/strong> &lt;/span>: &lt;a href="https://store.kde.org/c/1353921" target="_blank" rel="nofollow">&lt;span style="color: red;"> Here &lt;/span>&lt;/a>&lt;br />
 &lt;br />
-&lt;strong>１.&lt;/strong>--Qogir Kvantum theme: &lt;a href="https://www.opendesktop.org/p/1298349/" target="_blank" rel="nofollow">https://www.opendesktop.org/p/1298349/&lt;/a> .</summary>
+&lt;br />
+Author Wallpapers: &lt;a href="https://www.pling.com/u/charlie-henson/" target="_blank" rel="nofollow">&lt;span style="color: red;"> &lt;strong>Charlie-Henson&lt;/strong> &lt;/span>&lt;/a>&lt;/strong></summary>
   <changelog></changelog>
-  <preview>https://cn.opendesktop.org/cache/100x100-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</preview>
-  <previewBig>https://cn.opendesktop.org/cache/770x540-0/img/1/5/1/f/122a8479fd2c04b79f139e663042d6eae294.jpg</previewBig>
-  <payload>https://dllb2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE1ODM5MDYyMzIiLCJvIjoiMSIsInMiOiJlMDIyNWE5OWJhNzc4YjM1ZDM5NjQyMjdkYjk2MDE5OTJmMzUyZTViNTM0MDIzNjdlZDA2Njk2MWRlNGFiYTMyMjc1YjFhZDMwOTQ2NjFiMzQ2MDZjZWMxNjY2MWY3MWJiNTkxNmFlNDU1OGViMTViZTQ1NTlhMjE5OTM4NmViOSIsInQiOjE2MTc1NDM5ODksInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuNzcuMTU0LjM0In0.oLGPbaroh8BGNbz40aIa8t960g45Kyd4SgkrlBTNBCo/Qogir.tar.xz</payload>
-  <tags>unix,theme,plasma,original-product,kde,linux,gplv3</tags>
+  <preview>https://images.pling.com/cache/100x100-0/img/00/00/49/90/47/1361464/5b1ad3e692d6bf15f6b587b02626166e7d053081c130c7d734a78e2e0d9ef437ce81.png</preview>
+  <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/49/90/47/1361464/5b1ad3e692d6bf15f6b587b02626166e7d053081c130c7d734a78e2e0d9ef437ce81.png</previewBig>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MTMwNDIxNDciLCJvIjoiMSIsInMiOiI0ZGRhN2ZjODU5OTFhNjU0ODg1NmFiZGFkYWMyZDFiZTQ2NGNjNjAxMzY5ZDQ0NGQzYTBiZmJiZWMzNzEyN2Y4ZjJhYTczZGNjMmNlYzhkZjM4NTg5Zjc3ZWEwNTA5YjY2NTI1Mzc3NGI4MDZhYmQ4YTBlOTVmOGRhMjcyMTk3ZSIsInQiOjE2NDkxMjY3ODIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjExNCJ9.STKMOIl6SnYa8SjFW36-_XdBrLhIvRmQMjflrpK0jew/Breeze-Noir-Dark-Aurorae.zip</payload>
+  <tags>plasma,theme,unix,gplv3,linux,kde</tags>
   <status>installed</status>
  </stuff>
 </hotnewstuffregistry>

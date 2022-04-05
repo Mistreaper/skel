@@ -9,7 +9,7 @@
   <licence></licence>
   <version></version>
   <rating>81</rating>
-  <downloads>77868</downloads>
+  <downloads>81096</downloads>
   <installedfile>/home/guest/.local/share/icons/We10XOS-cursors/*</installedfile>
   <id>1381208</id>
   <releasedate>2020-11-03</releasedate>
@@ -19,7 +19,7 @@ based on capitaine-cursors&lt;a href="https://github.com/keeferrourke/capitaine-
   <changelog></changelog>
   <preview>https://images.pling.com/cache/100x100-0/img/00/00/54/79/90/1381208/c16de0d4feab8568339ca8af96635c6d8d1d.png</preview>
   <previewBig>https://images.pling.com/cache/770x540-0/img/00/00/54/79/90/1381208/c16de0d4feab8568339ca8af96635c6d8d1d.png</previewBig>
-  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDQzOTk3NDEiLCJvIjoiMSIsInMiOiI2ODNlOTgzOTY1ZWIyNjk2OWZkMmM2YzI1OTkyMzBkZDg1MTYxNTNhZTZjZDZlZGVlZGE3NzU3NzI4MWMyYWM4YjA3YTk2ZjRjZWI1Njg1MTA2ZDA4MDg5NjJkZTYxMDk0NzZkYzIxMzk5Mjg2NTI0OGY5ZmI1NmEyMjVjMGUwMCIsInQiOjE2NDY5NTU4NzIsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyMCJ9.hXAP2sX66cRLqcWWdg6amkgRQpJ_Du-cykueIqk8qf4/We10XOS-cursors.tar.gz</payload>
+  <payload>https://dl2.pling.com/api/files/download/j/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6IjE2MDQzOTk3NDEiLCJvIjoiMSIsInMiOiJlNzlmMTExYmVjMmEzYTNkOTMxM2MzODUzNDU5ZmY3NGI0YzQ5OTIzZWM2OWQ0NjJlNDU3NmFkMmM4ODk3MDFlYjM2YWNkNTUwMDY2NzZmZjg5YjExMjc4ZmNhNDEyYWMwMDk0NGQxYTYwMWZiNjJlN2Y2MzQwZDE4ZWM0NTY5NiIsInQiOjE2NDkxMjcwNDAsInN0ZnAiOm51bGwsInN0aXAiOiIxMDMuMTE5LjY2LjEyMSJ9.hq4wBqG0ih4bCo4O-GxnOH3QmjwQ2cfm1C3C-pHd7pM/We10XOS-cursors.tar.gz</payload>
   <tags>cursor,linux,gplv3,unix</tags>
   <status>installed</status>
  </stuff>
