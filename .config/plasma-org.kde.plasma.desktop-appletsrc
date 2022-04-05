@@ -24,7 +24,7 @@ DialogWidth=720
 PreloadWeight=42
 
 [Containments][1][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/wallpapers/Path/contents/images/1920x1080.jpg
+Image=file:///usr/share/wallpapers/Path/contents/images/2560x1600.jpg
 SlidePaths=/home/guest/.local/share/wallpapers,/usr/share/wallpapers
 
 [Containments][2]
@@ -160,3 +160,4 @@ knownItems=org.kde.plasma.keyboardlayout,org.kde.plasma.keyboardindicator,org.kd
 
 [ScreenMapping]
 itemsOnDisabledScreens=
+screenMapping=
